@@ -1,0 +1,8 @@
+Flask
+google
+rank-bm25
+requests
+tqdm
+numpy
+beautifulsoup4
+scikit-learn

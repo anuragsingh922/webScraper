@@ -1,0 +1,4 @@
+ve/
+.venv/
+app.py
+groq.py
